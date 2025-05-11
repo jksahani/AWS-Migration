@@ -2,11 +2,13 @@
 
 Steps to Migrate the Server from On-prem/Azure/GCP to AWS
 
-
 AWS Application Migration
 Create Migrate User and assign the required permissions.
+![alt text](image-2.png)
+![alt text](image-1.png)
 
 1. Add source server Config on Application migration 
+![alt text](image-3.png)
 2. download and install agent on source server 
    -- Provide the accesskey and authentication details
    -- select the Disk
